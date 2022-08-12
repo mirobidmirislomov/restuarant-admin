@@ -1,0 +1,36 @@
+.header-section {
+    width: 20vw;
+    height: 100vh;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    font-size: 30px;
+    color: #000;
+    text-decoration: none;
+}
+
+.nav-list {
+    list-style-type: none;
+    height: 500px;
+    font-size: 20px;
+}
+
+.nav-item {
+    margin: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.navLink {
+    color: rgb(58, 58, 58);
+    text-decoration: none;
+    transition: 0.15s;
+}
+
+.navLink:hover {
+    color: black;
+}

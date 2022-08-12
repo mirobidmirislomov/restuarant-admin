@@ -1,0 +1,66 @@
+.section-table {
+    width: 80vw;
+    height: 100vh;
+    padding-left: 30px;
+    padding-top: 40px;
+    overflow: scroll;
+}
+
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.tg td {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+
+.tg th {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+
+.tg .tg-0pky {
+    border-color: inherit;
+    text-align: left;
+    vertical-align: top
+}
+
+.addres-form {
+    margin-bottom: 20px;
+    margin-left: -10px;
+}
+
+.addres-form input {
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid #000;
+}
+
+.addres-form select {
+    padding: 5px;
+    border: 2px solid #000;
+    background-color: gray;
+    color: #fff;
+    margin: 0 10px;
+}
+
+.addres-form button {
+    width: 100px;
+    height: 35px;
+}
